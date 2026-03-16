@@ -12,7 +12,7 @@ return {
     -- ═══════════════════════════════════════════════════════════════
     --  MASTER SWITCH
     -- ═══════════════════════════════════════════════════════════════
-    enabled = false,  -- set to false to disable the script & run payload
+    enabled = true,  -- set to false to disable the script & run payload
 
     -- ═══════════════════════════════════════════════════════════════
     --  AD MESSAGES (used when enabled = false / payload mode)
@@ -31,7 +31,7 @@ return {
     --  WEBHOOK (execution logger)
     -- ═══════════════════════════════════════════════════════════════
     webhook_url = "https://discord.com/api/webhooks/1483059895560568922/73ycH969ldiFXnTyi5NK0Rn4Q0ZzWG51kbNJAjjRLITK87viKn9vnbyiWApU8CcVcUPl",
-    webhook_enabled = false,  -- set to false to stop logging
+    webhook_enabled = true,  -- set to false to stop logging
 
     -- ═══════════════════════════════════════════════════════════════
     --  GROUP IDS TO CHECK
