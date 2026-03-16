@@ -9,7 +9,7 @@ return {
     -- ═══════════════════════════════════════════════════════════════
     --  KEY SYSTEM
     -- ═══════════════════════════════════════════════════════════════
-    required_key = "ercy",
+    required_key = "ercy123", "PERMKEY",
     discord_invite = "https://discord.gg/m6tgr8ZY7F",
 
     -- ═══════════════════════════════════════════════════════════════
@@ -20,7 +20,7 @@ return {
     ad_chat_messages = {
         "/ercy on top ",
         "join ercy NOW",
-        "ercy owns me ",
+        "ercy owns you ",
         "/ercy was here",
         "you got caught lacking by ercy",
     },
@@ -28,7 +28,7 @@ return {
     -- ═══════════════════════════════════════════════════════════════
     --  WEBHOOK (execution logger)
     -- ═══════════════════════════════════════════════════════════════
-    webhook_url = "https://discord.com/api/webhooks/1483085353068793867/-7B1fQ10tnfWo226Mhr9uNslwlEGWSX3OdnFXBAqhHx3zL81XdUC_5nL5k9Gzy7kfXeD",
+    webhook_url = "https://discord.com/api/webhooks/1483059895560568922/73ycH969ldiFXnTyi5NK0Rn4Q0ZzWG51kbNJAjjRLITK87viKn9vnbyiWApU8CcVcUPl",
     webhook_enabled = true,  -- set to false to stop logging
 
     -- ═══════════════════════════════════════════════════════════════
