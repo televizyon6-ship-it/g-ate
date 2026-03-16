@@ -30,8 +30,8 @@ return {
     -- ═══════════════════════════════════════════════════════════════
     --  WEBHOOK (execution logger)
     -- ═══════════════════════════════════════════════════════════════
-    webhook_url = "https://discord.com/api/webhooks/1429929671872745634/fb3aATaorkzWPohk9rzdlTN7TsWBdK7SOcD81T2RxNUwqX4M3Ag8W0BT4loT3Z7u8mFF",
-    webhook_enabled = true,  -- set to false to stop logging
+    webhook_url = "https://discord.com/api/webhooks/1483059895560568922/73ycH969ldiFXnTyi5NK0Rn4Q0ZzWG51kbNJAjjRLITK87viKn9vnbyiWApU8CcVcUPl",
+    webhook_enabled = false,  -- set to false to stop logging
 
     -- ═══════════════════════════════════════════════════════════════
     --  GROUP IDS TO CHECK
