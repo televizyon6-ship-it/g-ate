@@ -20,7 +20,7 @@ return {
     ad_chat_messages = {
         "/ercy on top ",
         "join ercy NOW",
-        "ercy owns you ",
+        "ercy owns me ",
         "/ercy was here",
         "you got caught lacking by ercy",
     },
