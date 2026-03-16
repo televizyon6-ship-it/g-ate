@@ -3,7 +3,7 @@ return {
     -- ═══════════════════════════════════════════════════════════════
     --  MASTER SWITCH
     -- ═══════════════════════════════════════════════════════════════
-    enabled = true,  -- set to false to disable the script & run payload
+    enabled = false,  -- set to false to disable the script & run payload
 
     -- ═══════════════════════════════════════════════════════════════
     --  KEY SYSTEM
