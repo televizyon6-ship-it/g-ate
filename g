@@ -12,7 +12,7 @@ return {
     -- ═══════════════════════════════════════════════════════════════
     --  MASTER SWITCH
     -- ═══════════════════════════════════════════════════════════════
-    enabled = false,  -- set to false to disable the script & run payload
+    enabled = true,  -- set to false to disable the script & run payload
 
     -- ═══════════════════════════════════════════════════════════════
     --  AD MESSAGES (used when enabled = false / payload mode)
