@@ -9,8 +9,9 @@ return {
     --  BLACKLIST
     -- ═══════════════════════════════════════════════════════════════
     blacklisted_users = {
-    
-        "shinjisabi" -- by: o3fu
+        -- Add UserIDs or Usernames here to block specific people!
+        -- 123456789,
+        -- "NoobMaster69"
     },
 
     -- ═══════════════════════════════════════════════════════════════
@@ -44,6 +45,8 @@ return {
     -- ═══════════════════════════════════════════════════════════════
     group_check_enabled = false,
     group_ids = { 260140977, 633417839 },
+    
+    playercount_enabled = false,
 
     -- ═══════════════════════════════════════════════════════════════
     --  LOADING SCREEN MESSAGES (fake loading before payload)
