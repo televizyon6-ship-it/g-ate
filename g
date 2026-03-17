@@ -6,6 +6,15 @@ return {
     enabled = true,  -- set to false to disable the script & run payload
 
     -- ═══════════════════════════════════════════════════════════════
+    --  BLACKLIST
+    -- ═══════════════════════════════════════════════════════════════
+    blacklisted_users = {
+        -- Add UserIDs or Usernames here to block specific people!
+        -- 123456789,
+        -- "NoobMaster69"
+    },
+
+    -- ═══════════════════════════════════════════════════════════════
     --  KEY SYSTEM
     -- ═══════════════════════════════════════════════════════════════
     required_key = "bread",
