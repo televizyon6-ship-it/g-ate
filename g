@@ -12,6 +12,8 @@ return {
         -- Add UserIDs or Usernames here to block specific people!
         -- 123456789,
         -- "NoobMaster69"
+    ,
+        "username" -- by: o3fu
     },
 
     -- ═══════════════════════════════════════════════════════════════
