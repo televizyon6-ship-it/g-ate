@@ -9,28 +9,6 @@ return {
     --  BLACKLIST
     -- ═══════════════════════════════════════════════════════════════
     blacklisted_users = {
-        -- Add UserIDs or Usernames here to block specific people!
-        -- 123456789,
-        -- "NoobMaster69"
-    ,
-        "test"
-    ,
-        31231232
-    ,
-        "uh_darr"
-    ,
-        "�"
-    ,
-    ,
-        "UN94555015"
-    ,
-        "gabyta_perez"
-    ,
-        "hawhdu"
-    ,
-        "yhhfg"
-    
-    
     },
 
     -- ═══════════════════════════════════════════════════════════════
