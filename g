@@ -46,7 +46,7 @@ return {
     group_check_enabled = true,
     group_ids = { 260140977, 633417839 },
     
-    playercount_enabled = false,
+    playercount_enabled = true,
     groupcount_enabled = false,
 
     -- ═══════════════════════════════════════════════════════════════
