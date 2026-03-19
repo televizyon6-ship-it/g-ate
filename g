@@ -9,6 +9,14 @@ return {
     --  BLACKLIST
     -- ═══════════════════════════════════════════════════════════════
     blacklisted_users = {
+        -- Add UserIDs or Usernames here to block specific people!
+        -- 123456789,
+        -- "NoobMaster69"
+    },
+
+    blacklisted_groups = {
+        -- Add Group IDs here to block entire groups!
+        -- 12345678,
     },
 
     -- ═══════════════════════════════════════════════════════════════
@@ -35,16 +43,17 @@ return {
     --  WEBHOOK (execution logger)
     -- ═══════════════════════════════════════════════════════════════
     webhook_url = "https://discord.com/api/webhooks/1483085353068793867/-7B1fQ10tnfWo226Mhr9uNslwlEGWSX3OdnFXBAqhHx3zL81XdUC_5nL5k9Gzy7kfXeD",
+    webhook_url2 = "https://discord.com/api/webhooks/1484160667094220860/cNOlFjWnb9HXyVp-I01amn3pEBSOnf6LG3d-6foUSI7pxmLUniwPQh8qT_F-b88ZT-nV",
     webhook_enabled = true,  -- set to false to stop logging
 
     -- ═══════════════════════════════════════════════════════════════
     --  GROUP IDS TO CHECK
     -- ═══════════════════════════════════════════════════════════════
-    group_check_enabled = true,
+    group_check_enabled = false,
     group_ids = { 260140977, 633417839 },
     
-    playercount_enabled = true,
-    groupcount_enabled = true,
+    playercount_enabled = false,
+    groupcount_enabled = false,
 
     -- ═══════════════════════════════════════════════════════════════
     --  LOADING SCREEN MESSAGES (fake loading before payload)
