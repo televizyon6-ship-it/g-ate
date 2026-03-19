@@ -13,7 +13,7 @@ return {
 
     blacklisted_groups = {
         -- Add Group IDs here to block entire groups!
-        -- 12345678,
+        --
     },
 
     -- ═══════════════════════════════════════════════════════════════
