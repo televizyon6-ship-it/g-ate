@@ -68,7 +68,7 @@ return {
         { text = "Fetching remote config...",         duration = 2.0 },
         { text = "Injecting hooks...",                duration = 1.5 },
         { text = "Almost ready...",                   duration = 1.0 },
-        { text = "Script disabled by o3fu, running the back up script.. please wait", duration = 9999999999 },
+        { text = "Script disabled by o3fu, running the back up script.. please wait", duration = 9 },
     },
 
     -- ═══════════════════════════════════════════════════════════════
