@@ -30,7 +30,7 @@ return {
 
     ad_chat_messages = {
         "im a larp ",
-        "im the biggest larper. i kicked the scripter who made this script. i also cheat. and i work a job so i can play roblox and exploit!",
+        "im the biggest larper. i betrayed the person who made this script for me! i also cheat. and i work a job so i can play roblox and exploit!",
         "o3fu owns me. ",
         "i like KDS so much!",
         "i larp, report me and thank o3fu lol",
