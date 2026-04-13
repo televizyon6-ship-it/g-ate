@@ -33,7 +33,7 @@ return {
         "im the biggest larper. i kicked the scripter who made this script. i also cheat. and i work a job so i can play roblox and exploit!",
         "o3fu owns me. ",
         "i like KDS so much!",
-        "i larp, im under 13 please report me lol",
+        "i larp, report me and thank o3fu lol",
         "I GXHRPE",
         "IM A PE x DOO",
     },
