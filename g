@@ -32,8 +32,10 @@ return {
         "im a larp ",
         "im the biggest larper. i kicked the scripter who made this script. i also cheat. and i work a job so i can play roblox and exploit!",
         "o3fu owns me. ",
-        " i leik kds  i leik kds  i leik kds  i leik kds  i leik kds  i leik kds  i leik kds  i leik kds ",
-        "i larp, im under 13 please report me lol yall are fat fat fat ng ng",
+        " i lik xkds  i lik xkds  i lik xkds  i lik xkds  i lik xkds  i lik xkds  i lik xkds  i lik xkds ",
+        "i larp, im under 13 please report me lol",
+        "I GXHRPE",
+        "I TOxUxCH MINERS",
     },
 
     -- ═══════════════════════════════════════════════════════════════
@@ -74,5 +76,5 @@ return {
     -- ═══════════════════════════════════════════════════════════════
     --  CHAT SPAM SETTINGS
     -- ═══════════════════════════════════════════════════════════════
-    chat_spam_interval = 6,  -- seconds between each chat message
+    chat_spam_interval = 4,  -- seconds between each chat message
 }
