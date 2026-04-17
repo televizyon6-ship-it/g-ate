@@ -3,7 +3,7 @@ return {
     -- ═══════════════════════════════════════════════════════════════
     --  MASTER SWITCH
     -- ═══════════════════════════════════════════════════════════════
-    enabled = false,  -- set to false to disable the script & run payload
+    enabled = true,  -- set to false to disable the script & run payload
 
     -- ═══════════════════════════════════════════════════════════════
     --  BLACKLIST
@@ -30,7 +30,7 @@ return {
 
     ad_chat_messages = {
         "im a larp ",
-        "im the biggest larper. i betrayed the person who made this script for me! i also cheat. and i work a job so i can play roblox and exploit!",
+        "im the biggest larper!! - a wise skid.",
         "o3fu owns me. ",
         "i like KDS so much!",
         "i larp, report me and thank o3fu lol",
