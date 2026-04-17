@@ -35,8 +35,8 @@ return {
         "i like KDS so much!",
         "i larp, report me and thank o3fu lol",
         "I GXHRPE",
-        "IM A PE x DOO",
-        "I TOUXH 10 YR",
+        "IM A PuEDOO",
+        "I TOUXH 10",
         "I LOVE KIDDIES",
     },
 
