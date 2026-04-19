@@ -19,7 +19,7 @@ return {
     -- ═══════════════════════════════════════════════════════════════
     --  KEY SYSTEM
     -- ═══════════════════════════════════════════════════════════════
-    required_key = "bread",
+    required_key = "ercy123",
     required_key2 = "PERMKEY",
     discord_invite = "https://discord.gg/m6tgr8ZY7F",
 
